@@ -14,16 +14,16 @@ The objective of this syllabus is to ensure you have a comprehensive grasp of a 
 
 ## Lesson structure and approach
 
-Each lesson is built on the following approach:
+The course is based on the [Sloyd model](https://en.wikipedia.org/wiki/Sloyd) of technical training. Each lesson is discrete, building on the previous lesson, and provides a functional and holistic understanding of the scientific method as it applies to data. It is not about learning an algorithm and applying it to abstract, arbitrary data.
+
+Each lesson starts with a research question, and progresses by teaching a complete, and practical, set of skills allowing students to learn at their own pace and in an order which suites their current understanding. Case-studies and tutorials are drawn from public health, economics and social issues, and the course is accessible to anyone with an interest in data. Course materials, case studies and guided tutorials are presented in Jupyter Notebooks permitting learners to test running code and gain hands-on understanding of the techniques discussed.
+
+Each research question is guided by the following four topics:
 
 - **Ethics**: determining the social and behavioural challenges posed by a research question;
 - **Curation**: establish the research requirements for data collection and management;
 - **Analysis**: Investigate, explore and analyse research data;
 - **Presentation**: Prepare and present the results of analysis to promote a response;
-
-The course is based on the [Sloyd model](https://en.wikipedia.org/wiki/Sloyd) of technical training. Each lesson is discrete, building on the previous lesson, and provides a functional and holistic understanding of the scientific method as it applies to data. It is not about learning an algorithm and applying it to abstract, arbitrary data.
-
-Each lesson starts with a research question, and progresses by teaching a complete, and practical, set of skills allowing students to learn at their own pace and in an order which suites their current understanding. Case-studies and tutorials are drawn from public health, economics and social issues, and the course is accessible to anyone with an interest in data. Course materials, case studies and guided tutorials are presented in Jupyter Notebooks permitting learners to test running code and gain hands-on understanding of the techniques discussed.
 
 On completion of each lesson, students gain useful and meaningful skills, and are not left stranded. This means that even partial completion of the material permits students to be productive members of a research team. The first lesson will ensure students can become professional data wranglers, and – on completion of the first ten lessons – graduates will be capable of taking on a responsible data research role.
 
