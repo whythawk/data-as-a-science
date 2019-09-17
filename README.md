@@ -34,7 +34,7 @@ This is a brief video demonstrating the first module: https://www.youtube.com/wa
 I have prepared an overview of 20 lessons, each requiring two to three weeks to learn, which would comprise the complete course. 
 
 1. **Module 1**:
-   - *Lesson 1*: Introduction to data as a science ([link](https://github.com/whythawk/data-as-a-science/blob/master/Module%201%2C%20Lesson%201%20-%20Introduction%20to%20data%20as%20a%20science.ipynb))
+   - *Lesson 1*: Introduction to data as a science ([view](https://nbviewer.jupyter.org/github/whythawk/data-as-a-science/tree/master/Module%201,%20Lesson%201%20-%20Introduction%20to%20data%20as%20a%20science.ipynb))
    - *Lesson 2*: Research and experiments with data ([#1](https://github.com/whythawk/data-as-a-science/issues/1))
    - *Lesson 3*: Probability, randomness, and the risk of de-anonymization ([#2](https://github.com/whythawk/data-as-a-science/issues/2))
    - *Lesson 4*: Sampling, data distribution, and secure data custody ([#3](https://github.com/whythawk/data-as-a-science/issues/3))
