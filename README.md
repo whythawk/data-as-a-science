@@ -10,7 +10,10 @@ As it becomes ever-easier to collect data about individuals and systems, a diver
 
 Ordinarily, when teaching data science, everyone - from teachers to students - prefers to focus on analysis and presentation since these are more fun and require less frustration with messy data or ethical dilemmas. Working data scientists will point out that the bulk of their time is taken up with social and ethical negotiations, and complex and tedious data integration.
 
-The objective of this syllabus is to ensure you have a comprehensive grasp of a data-driven research process. *Data as a Science* guides learners to confidence in the ethics, curation, analysis, and presentation of data, integrating each of these topics into each lesson.
+There are two objectives for this syllabus:
+
+1. To ensure students have a comprehensive grasp of a data-driven research process. *Data as a Science* guides learners to confidence in the ethics, curation, analysis, and presentation of data, integrating each of these topics into each lesson.
+2. To support the growing desire for universities around the world, but especially in emerging-market countries, to offer Data Science degree courses, by providing a free, openly-licenced core curriculum for adoption and adaptation by their degree programs.
 
 ## Lesson structure and approach
 
