@@ -38,7 +38,7 @@ I have prepared an overview of 20 lessons, each requiring two to three weeks to 
 
 1. **Module 1**:
    - *Lesson 1*: Introduction to data as a science ([view](https://nbviewer.jupyter.org/github/whythawk/data-as-a-science/tree/master/Module%201,%20Lesson%201%20-%20Introduction%20to%20data%20as%20a%20science.ipynb))
-   - *Lesson 2*: Research and experiments with data ([#1](https://github.com/whythawk/data-as-a-science/issues/1))
+   - *Lesson 2*: Research and experiments with data ([view](https://nbviewer.jupyter.org/github/whythawk/data-as-a-science/blob/master/Module%201%2C%20Lesson%202%20-%20Research%20and%20experiments%20with%20data.ipynb))
    - *Lesson 3*: Probability, randomness, and the risk of de-anonymization ([#2](https://github.com/whythawk/data-as-a-science/issues/2))
    - *Lesson 4*: Sampling, data distribution, and secure data custody ([#3](https://github.com/whythawk/data-as-a-science/issues/3))
    - *Lesson 5*: Expected statistical outcomes using distributions, and issues for analysis  ([#4](https://github.com/whythawk/data-as-a-science/issues/4))
@@ -59,7 +59,7 @@ I have prepared an overview of 20 lessons, each requiring two to three weeks to 
    - *Lesson 9*: Liquid modernity, multiple jurisdictions, and assessing causality in randomised control trials ([#18](https://github.com/whythawk/data-as-a-science/issues/18))
    - *Lesson 10*: Consolidate what you have learned, and explore machine learning ([#19](https://github.com/whythawk/data-as-a-science/issues/19))
 
-The first lesson is complete, and I estimate about 6 weeks to research and create each of the remaining 19 lessons.
+The first two lessons are complete, and I estimate about 6 weeks to research and create each of the remaining 18 lessons.
 
 ## Supporting continued development of *Data as a Science*
 
