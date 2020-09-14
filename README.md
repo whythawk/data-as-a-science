@@ -15,18 +15,31 @@ There are two objectives for this syllabus:
 1. To ensure students have a comprehensive grasp of a data-driven research process. *Data as a Science* guides learners to confidence in the ethics, curation, analysis, and presentation of data, integrating each of these topics into each lesson.
 2. To support the growing desire for universities around the world, but especially in emerging-market countries, to offer Data Science degree courses, by providing a free, openly-licenced core curriculum for adoption and adaptation by their degree programs.
 
-## Lesson structure and approach
+## Pedagogy
 
-The course is based on the [Sloyd model](https://en.wikipedia.org/wiki/Sloyd) of technical training. Each lesson is discrete, building on the previous lesson, and provides a functional and holistic understanding of the scientific method as it applies to data. It is not about learning an algorithm and applying it to abstract, arbitrary data.
+The course is based on the [Sloyd model](https://en.wikipedia.org/wiki/Sloyd) of technical training. Each lesson is discrete, building on the previous lesson, and provides a functional and holistic understanding of the scientific method as it applies to data. It is not about learning an algorithm and applying it to abstract, arbitrary data. The course has the objective of training complete data scientists, you will learn how research works and apply tools to a specific case-study.
 
 Each lesson starts with a research question, and progresses by teaching a complete, and practical, set of skills allowing students to learn at their own pace and in an order which suites their current understanding. Case-studies and tutorials are drawn from public health, economics and social issues, and the course is accessible to anyone with an interest in data. Course materials, case studies and guided tutorials are presented in Jupyter Notebooks permitting learners to test running code and gain hands-on understanding of the techniques discussed.
 
-Each research question is guided by the following four topics:
+### Lesson structure and approach
 
-- **Ethics**: determining the social and behavioural challenges posed by a research question;
+Each lesson is guided by the following four topics:
+
+- **Ethics**: determine the social and behavioural challenges posed by a research question;
 - **Curation**: establish the research requirements for data collection and management;
-- **Analysis**: Investigate, explore and analyse research data;
-- **Presentation**: Prepare and present the results of analysis to promote a response;
+- **Analysis**: investigate, explore and analyse research data;
+- **Presentation**: prepare and present the results of analysis to promote a response;
+
+### Case-studies: review and replicate
+
+Science is a set of defined methods that stands up to scrutiny, supports replication, and is supported by ethical measurement data acquired during the study process. The way to gain confidence in these methods is to review the work of others. 
+
+Each lesson will guide you through review of published scholarly work in the following ways:
+
+- **Review**: apply learned techniques to open access published research, and review and reflect on the methodology, analysis and results presented;
+- **Replication**: using source- or synthetic data, reproduce the methodology used in open access published research to test whether claimed analysis and results are replicable;
+
+Synthetic data will include lessons in dependent randomisation, as well as agent-based modelling.
 
 On completion of each lesson, students gain useful and meaningful skills, and are not left stranded. This means that even partial completion of the material permits students to be productive members of a research team. The first lesson will ensure students can become professional data wranglers, and – on completion of the first ten lessons – graduates will be capable of taking on a responsible data research role.
 
@@ -72,6 +85,10 @@ Each lesson costs about $5,000 to research and create, and is released here on c
 My name is [Gavin Chait](https://gavinchait.com), and I am an independent data scientist specialising in economic development and data curation. I spent more than a decade in economic and development initiatives in South Africa. I was the commercial lead of open data projects at the Open Knowledge Foundation, leading the open source CKAN development team, and led the implementation of numerous open data technical and research projects around the world. Recently, I have developed [Sqwyre.com](https://sqwyre.com), an initiative to develop a comprehensive business intelligence search engine for entrepreneurs. Data are based on open data and Freedom of Information requests.
 
 I have extensive experience in leading research projects, implementing open source software initiatives, and developing and leading seminars and workshops. I have taught for 25 years, including for undergraduates, adult education, and technical and analytical teaching at all levels.
+
+This pedagogy and syllabus structure was developed with support from the Gates Foundation and WHO. Initial research into the need for education capacity building arose as a result of research supported by the Hewlett Foundation, Wellcome Trust and Public Health Research Data Forum.
+
+> Chait, Gavin; Sujith, Eramangalath; Grzywinska, Dominika; Wainwright, Mark (2018): Supporting capacity and skills development for public health data research management in low- and medium income countries. Wellcome Trust. Journal contribution. https://doi.org/10.6084/m9.figshare.6087161.v1
 
 ## Licensing and release
 
