@@ -52,7 +52,7 @@ I have prepared an overview of 20 lessons, each requiring two to three weeks to 
 1. **Module 1**:
    - *Lesson 1*: Introduction to data as a science ([view](https://nbviewer.jupyter.org/github/whythawk/data-as-a-science/tree/master/Module%201,%20Lesson%201%20-%20Introduction%20to%20data%20as%20a%20science.ipynb))
    - *Lesson 2*: Research and experiments with data ([view](https://nbviewer.jupyter.org/github/whythawk/data-as-a-science/blob/master/Module%201%2C%20Lesson%202%20-%20Research%20and%20experiments%20with%20data.ipynb))
-   - *Lesson 3*: Probability, randomness, and the risk of de-anonymization ([#2](https://github.com/whythawk/data-as-a-science/issues/2))
+   - *Lesson 3*: Probability, randomness, and the risk of de-anonymization ([view](https://nbviewer.jupyter.org/github/whythawk/data-as-a-science/blob/master/Module%201%2C%20Lesson%203%20-%20Probability%2C%20randomness%2C%20and%20the%20risk%20of%20de-anonymization.ipynb))
    - *Lesson 4*: Sampling, data distribution, and secure data custody ([#3](https://github.com/whythawk/data-as-a-science/issues/3))
    - *Lesson 5*: Expected statistical outcomes using distributions, and issues for analysis  ([#4](https://github.com/whythawk/data-as-a-science/issues/4))
    - *Lesson 6*: Techniques in data and population sampling, and assessing standard error ([#5](https://github.com/whythawk/data-as-a-science/issues/5))
