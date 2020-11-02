@@ -90,6 +90,21 @@ This pedagogy and syllabus structure was developed with support from the Gates F
 
 > Chait, Gavin; Sujith, Eramangalath; Grzywinska, Dominika; Wainwright, Mark (2018): Supporting capacity and skills development for public health data research management in low- and medium income countries. Wellcome Trust. Journal contribution. https://doi.org/10.6084/m9.figshare.6087161.v1
 
+## Citation
+
+> Chait, Gavin (2020): Data as a Science. Whythawk. https://github.com/whythawk/data-as-a-science
+
+And as a BibTeX entry:
+
+	@book{chait_data_2020,
+		title = {Data as a {Science}},
+		copyright = {Creative Commons Attribution-ShareAlike 4.0 International and the GNU Affero General Public License},
+		url = {https://github.com/whythawk/data-as-a-science},
+		publisher = {Whythawk},
+		author = {Chait, Gavin},
+		year = {2020}
+	}
+
 ## Licensing and release
 
 Course content, materials and approach are copyright Gavin Chait, and released under both the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) and the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) licences.
