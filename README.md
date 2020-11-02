@@ -94,17 +94,18 @@ This pedagogy and syllabus structure was developed with support from the Gates F
 
 ## Citation
 
-> Chait, Gavin (2020): Data as a Science. Whythawk. https://github.com/whythawk/data-as-a-science
+> Chait, Gavin (2020): Data as a Science. Whythawk. https://doi.org/10.5281/zenodo.4194973
 
 And as a BibTeX entry:
 
 	@book{chait_data_2020,
-		title = {Data as a {Science}},
-		copyright = {Creative Commons Attribution-ShareAlike 4.0 International and the GNU Affero General Public License},
-		url = {https://github.com/whythawk/data-as-a-science},
-		publisher = {Whythawk},
-		author = {Chait, Gavin},
-		year = {2020}
+		  title = {Data as a {Science}},
+		  copyright = {Creative Commons Attribution-ShareAlike 4.0 International and the GNU Affero General Public License},
+		  publisher = {Whythawk},
+		  author = {Chait, Gavin},
+		  year = {2020},
+		  doi = {10.5281/zenodo.4194973},
+		  url = {https://doi.org/10.5281/zenodo.4194973}
 	}
 
 ## Licensing and release
