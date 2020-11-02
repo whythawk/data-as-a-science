@@ -1,5 +1,7 @@
 # Data as a Science
 
+[![DOI](https://zenodo.org/badge/113623204.svg)](https://zenodo.org/badge/latestdoi/113623204)
+
 Data has become the most important language of our era, informing everything from intelligence in automated machines, to predictive analytics in medical diagnostics. The plunging cost and easy accessibility of the raw requirements for such systems - data, software, distributed computing, and sensors - are driving the adoption and growth of data-driven decision-making.
 
 *A **data scientist** is a researcher who answers a research question using data*, and can lead the development of the research process. They may design the methods to acquire primary or secondary sources of data that inform the research process, monitor and ensure ethical responsibilities, curate the research data and results, or communicate the process and results to stakeholders. Coding is incidental to that process, and it is possible to be a data scientist without programming at all.
